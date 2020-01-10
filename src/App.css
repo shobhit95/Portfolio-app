@@ -1,0 +1,107 @@
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.customBanner{
+  text-align: center;
+}
+
+.navbar{
+  background: rgba(0,0,0, 0.6);
+}
+
+.navbarCustom{
+  background-color: #17a2b8;
+}
+
+Link{
+  color:white;
+}
+span{
+  color:#fff
+}
+h3{
+  color: gray;
+}
+.jumbotron{
+margin:30px;
+padding: 20px;
+background-color: rgba(0,0,0, 0.6);
+border: 1px solid #6c757d;
+
+}
+
+.vl {
+  border-left: 2px solid #343a40;
+  height: auto;
+}
+
+.divUser{
+  position: static;
+  overflow-y: scroll;
+  height: 550px;
+}
+
+.customDiv{
+  margin: 10px;
+  border: 1px solid;
+  width:100%;
+  cursor: pointer;
+  box-shadow: 2px 4px #17a2b8;
+
+}
+
+#nprogress .bar {
+  background-color: red;
+  height: 5px;
+}
+ 
+#nprogress .spinner-icon {
+  
+  border-top-color: #f4590a;
+  border-left-color: #f4590a;
+  
+}
+
+label{
+  color:#17a2b8;
+  font-weight: 600;
+
+}
+.btn-secondary {
+  color: #fff;
+  background-color: #17a2b8;
+  border-color: #17a2b8;}
+
+#nprogress .peg {
+  box-shadow: 0 0 10px #f4590a, 0 0 5px #f4590a;
+}
+.form-login {
+  background-color: #fbf8f8;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 15px;
+  border-color:#d2d2d2;
+  border-width: 5px;
+  box-shadow:0 1px 0 #cfcfcf;
+  margin:30px;
+ 
+  box-shadow: 5px 5px 10px 10px #88888859;
+
+}
+
+.toasts {
+  bottom: 1000px;
+  position: relative;
+  right: 24px;
+  width: 240px;
+  top:200px
+}
