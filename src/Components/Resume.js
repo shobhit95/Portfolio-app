@@ -38,7 +38,7 @@ const Resume = () => {
                     <div style={{ marginTop: '60px' }}>
                         <ul className="flex">
                             <div className="flexContent">
-                                <img className="imageIcon" src="../../images/html_icon.png"></img>
+                                <img className="imageIcon" src="public/images/html_icon.png"></img>
                                 <h4>HTML5</h4>
                                 <p className="aboutContent">
                                     It is the first basic and the most coolest thing I learned while developing a web application.
