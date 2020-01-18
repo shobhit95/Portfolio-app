@@ -5,10 +5,12 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
+    "react-blob": "^1.0.1",
     "react-dom": "^16.8.6",
     "react-ga": "^2.7.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "styled-components": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -8,8 +8,90 @@
   }
 }
 
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro:600&display=swap');
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #1f822b;
+  transition: color .3s ease-in-out;
+}
+
+.footerCustom{
+  background: #303030;
+  height: 150px;
+}
+
+.borderBottom{
+  color: inherit;
+  border-bottom: 3px solid #179038;
+  padding-bottom: 6px;
+}
+
+.upPosition{
+  position: relative;
+  left: 50%;
+  bottom: 40px;
+  font-size: 40px;
+}
+
 .customBanner{
   text-align: center;
+}
+
+.about{
+  background: #2B2B2B;
+  padding: 150px 0 100px 0;
+  color: #fff;
+}
+
+.resume{
+  padding: 80px 0 100px 0;
+}
+.dot {
+  margin:2px;
+  height: 5px;
+  width: 5px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.imageIcon{
+  height: 200px;
+  width: 200px;
+}
+
+.flex{
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-evenly;
+}
+
+.flexContent{
+  height: 450px;
+  width: 240px;
+  text-align: center;
+}
+
+.resumeContent{
+  font: 16px/30px 'Source Serif Pro', serif;
+  color: #6E7881;
+  font-style: italic;
+}
+.aboutContent{
+  line-height: 30px;
+  color: #7A7A7A;
+}
+
+.profilepic{
+  position: relative;
+  width: 150px;
+  height: 150px;
+  border-radius: 25%;
+
 }
 
 .navbar{
@@ -35,9 +117,22 @@ h3{
   padding: 20px;
   background-color: rgba(0,0,0, 0.6);
   border: 1px solid #6c757d;
-
+  border-radius: 25px;
 }
 
+.social{
+  color: 'white';
+  list-style: none;
+  font-size: 50px ;
+  margin-left:30%
+}
+
+i{
+  cursor: pointer;
+}
+.marginRight{
+    margin-right: 20px;
+}
 .vl {
   border-left: 2px solid #343a40;
   height: auto;
