@@ -38,49 +38,49 @@ const Resume = () => {
                     <div style={{ marginTop: '60px' }}>
                         <ul className="flex">
                             <div className="flexContent">
-                                <img className="imageIcon" src="images/html_icon.png"></img>
+                                <img className="imageIcon" src="../../images/html_icon.png"></img>
                                 <h4>HTML5</h4>
                                 <p className="aboutContent">
                                     It is the first basic and the most coolest thing I learned while developing a web application.
                                 </p>
                             </div>
                             <div className="flexContent">
-                                <img className="imageIcon" src="images/bootstrap_icon.png"></img>
+                                <img className="imageIcon" src="../../images/bootstrap_icon.png"></img>
                                 <h4>Bootstrap4</h4>
                                 <p className="aboutContent">
                                     I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly.
                                 </p>
                             </div>
                             <div className="flexContent">
-                                <img className="imageIcon" src="images/js_icon.png"></img>
+                                <img className="imageIcon" src="../../images/js_icon.png"></img>
                                 <h4>Javascript</h4>
                                 <p className="aboutContent">
                                     This is the first scripting language I started working and its flexibility to interact with DOM and its continuous advancement makes me more attractive to play with it.
                                 </p>
                             </div>
                             <div className="flexContent">
-                                <img className="imageIcon" src="images/react_icon.png"></img>
+                                <img className="imageIcon" src="../../images/react_icon.png"></img>
                                 <h4>ReactJs</h4>
                                 <p className="aboutContent">
                                     When I was new to React and really did not like it at first. It has grown on me though and from hat point I started liking it and enjoying working on it.
                                 </p>
                             </div>
                             <div className="flexContent">
-                                <img className="imageIcon" src="images/node_icon.png"></img>
+                                <img className="imageIcon" src="../../images/node_icon.png"></img>
                                 <h4>NodeJs</h4>
                                 <p className="aboutContent">
                                     Since I want to learn server side scripting language so I choose NodeJs and it is really a nice experience with it.
                                 </p>
                             </div>
                             <div className="flexContent">
-                                <img className="imageIcon" src="images/git_icon.png"></img>
+                                <img className="imageIcon" src="../../images/git_icon.png"></img>
                                 <h4>Git</h4>
                                 <p className="aboutContent">
                                     I use Git for all of my projects so far. I have used Git for version control in my projects and have toyed around with contributing to Open Source Projects.
                                 </p>
                             </div>
                             <div className="flexContent">
-                                <img className="imageIcon" src="images/heroku_icon.png"></img>
+                                <img className="imageIcon" src="../../images/heroku_icon.png"></img>
                                 <h4>Heroku</h4>
                                 <p className="aboutContent">
                                     I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.
