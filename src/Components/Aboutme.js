@@ -7,7 +7,7 @@ const Aboutme = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-3">
-                            <img className="profilepic" src="../../images/profile.png"></img>
+                            <img className="profilepic" src="./images/profile.png"></img>
                         </div>
                         <div className="col-md-8">
                             <h2>About Me</h2>
